@@ -1,0 +1,88 @@
+3 models
+
+real    0m0.150s
+user    0m0.117s
+sys     0m0.025s
+
+real    0m0.149s
+user    0m0.123s
+sys     0m0.024s
+
+real    0m0.148s
+user    0m0.116s
+sys     0m0.028s
+
+real    0m0.148s
+user    0m0.124s
+sys     0m0.021s
+
+real    0m0.147s
+user    0m0.117s
+sys     0m0.025s
+
+2 models
+
+real    0m0.136s
+user    0m0.096s
+sys     0m0.032s
+
+real    0m0.134s
+user    0m0.103s
+sys     0m0.028s
+
+real    0m0.133s
+user    0m0.085s
+sys     0m0.044s
+
+real    0m0.114s
+user    0m0.087s
+sys     0m0.024s
+
+real    0m0.114s
+user    0m0.085s
+sys     0m0.025s
+
+100 models
+
+real    0m3.624s
+user    0m3.577s
+sys     0m0.032s
+
+real    0m3.680s
+user    0m3.607s
+sys     0m0.044s
+
+real    0m3.709s
+user    0m3.618s
+sys     0m0.052s
+
+real    0m3.678s
+user    0m3.616s
+sys     0m0.052s
+
+real    0m3.672s
+user    0m3.606s
+sys     0m0.024s
+
+200 models
+
+real    0m7.192s
+user    0m7.100s
+sys     0m0.080s
+
+real    0m7.289s
+user    0m7.184s
+sys     0m0.076s
+
+real    0m7.308s
+user    0m7.213s
+sys     0m0.069s
+
+real    0m7.289s
+user    0m7.173s
+sys     0m0.104s
+
+real    0m7.306s
+user    0m7.196s
+sys     0m0.080s
+

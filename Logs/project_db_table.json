@@ -1,0 +1,41 @@
+[
+  {
+    "buffer_size": 3,
+    "max_rounds": 10,
+    "min_device_level": 2,
+    "min_user_level": 1,
+    "round": 10,
+    "status": 3,
+    "date_created": "2023-06-10 21:00:01.970000",
+    "date_modified": "2023-06-10 22:42:48.365000",
+    "id": "1",
+    "current_model_id": "34dd531c4e824bf58480a84e17386488",
+    "name": "proj1"
+  },
+  {
+    "buffer_size": 2,
+    "max_rounds": 10,
+    "min_device_level": 2,
+    "min_user_level": 1,
+    "round": 10,
+    "status": 3,
+    "date_created": "2023-06-10 23:00:01.251000",
+    "date_modified": "2023-06-11 00:00:57.267000",
+    "id": "2",
+    "current_model_id": "cdcea02ee35a4216be2bfbc07074da2d",
+    "name": "proj2"
+  },
+  {
+    "buffer_size": 2,
+    "max_rounds": 10,
+    "min_device_level": 2,
+    "min_user_level": 1,
+    "round": 10,
+    "status": 3,
+    "date_created": "2023-06-11 00:30:01.592000",
+    "date_modified": "2023-06-11 01:36:02.852000",
+    "id": "3",
+    "current_model_id": "eea1f4d5a66e4e16bb605f0c0a98ab0e",
+    "name": "proj3"
+  }
+]
